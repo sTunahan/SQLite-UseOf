@@ -11,4 +11,4 @@
 
 5. The class is created. to create the tables
 
-6.The dao is created
+6. The dao is created
